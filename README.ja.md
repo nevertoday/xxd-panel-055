@@ -38,6 +38,12 @@
 
 写真で最も記憶に残る主体、動作、空間関係を保ち、柔らかく明快なパステルの面、淡い油彩の筆触、控えめな編集文字で再構成します。
 
+## 原始プロンプト · 5言語
+
+[統一された多言語ディレクトリを開く](references/original-prompt/): [簡体字中国語原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+簡体字中国語ファイルは小小東の文言を逐語で保存し、実行時の唯一の美的基準です。他の4言語は海外の読者が読み、共有するための忠実な翻訳であり、画像生成プロンプトを書き換えません。
+
 <!-- xxd-panel-benefit:start -->
 ## すぐに判断：XXD Panel 055 はあなたに合う？
 
@@ -65,11 +71,11 @@
 - 偏心、拡大、部分的な裁ち落としと静かな余白で、明確な読解経路を作ります。
 - 文字は小さく軽い編集注記として、現在の画像の内容や暗示からのみ生まれます。
 
-美的制約と拒否項目は[原文プロンプト](references/055-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-055-prompt.en.md)
+美的制約と拒否項目は[原文プロンプト](references/original-prompt/zh-CN.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-055-prompt.en.md)
 
 ## 原文プロンプトを唯一の美的基準にする
 
-`references/055-source.md` が、このプロジェクト唯一の創作・美的基準です。Skill は原文を要約・拡張せず、共通の配色計画、美的動機、タイトル、マイクロコピーを追加しません。色、素材、構図、余白、言葉、タイポグラフィは、GPT Image 2 が原文プロンプトの規則どおりに実行します。
+`references/original-prompt/zh-CN.md` が、このプロジェクト唯一の創作・美的基準です。Skill は原文を要約・拡張せず、共通の配色計画、美的動機、タイトル、マイクロコピーを追加しません。色、素材、構図、余白、言葉、タイポグラフィは、GPT Image 2 が原文プロンプトの規則どおりに実行します。
 
 モードとサイズは、原文の変換美学を変えずに、旧来の 3:4 上下出力コンテナを完全に置き換えます。各成果物では選択された一つのモード契約だけを GPT Image 2 に送り、四つの候補を一つの汎用テンプレート内で解釈させません。
 
@@ -209,7 +215,7 @@ $xxd-panel-055
 Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
 ```
 
-完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/055-source.md) · [英語ランタイムアダプター](references/xxd-panel-055-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-055-prompt.zh-CN.md)
+完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/original-prompt/zh-CN.md) · [英語ランタイムアダプター](references/xxd-panel-055-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-055-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全プロジェクト一覧
