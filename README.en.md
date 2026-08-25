@@ -14,14 +14,7 @@
 
 </div>
 
-SUBJECT NARRATIVE · HEALING PASTELS · LIGHT OIL TEXTURE · AIRY BLUE · EDITORIAL SPACE
-
-Keep the source's most memorable subject, gesture, and spatial relation, then rebuild them with soft but legible pastel masses, light oil-paint texture, and restrained editorial type.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091726763701555207) · 24 August 2026<br>
-> GPT2 × refinement × soothing colour × aesthetic prompt × VOL.055
 
 <table>
   <tr>
@@ -34,9 +27,16 @@ Keep the source's most memorable subject, gesture, and spatial relation, then re
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091726763701555207) · 24 August 2026<br>
+> GPT2 × refinement × soothing colour × aesthetic prompt × VOL.055
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091726763701555207">View the original post and full prompt →</a></p>
 
 These samples demonstrate 055's aesthetic result only. Their subjects, composition, palette, copy, and earlier canvas ratio never become references or defaults for a new task.
+
+SUBJECT NARRATIVE · HEALING PASTELS · LIGHT OIL TEXTURE · AIRY BLUE · EDITORIAL SPACE
+
+Keep the source's most memorable subject, gesture, and spatial relation, then rebuild them with soft but legible pastel masses, light oil-paint texture, and restrained editorial type.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 055 right for you?
