@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
+</div>
+
 主体叙事 · 治愈粉彩 · 浅油画笔触 · 空气感蓝 · 编辑留白
 
 保留照片里最值得记住的主体、动作与空间关系，再用柔软而清楚的粉彩块面、浅油画笔触和克制的编辑文字，重构成明亮、松弛的独立出版画面。
@@ -234,7 +236,7 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
-<div align="center"><strong>记忆不是六个图标，而是一段有主次的收藏。</strong></div>
+<div align="center"><strong>一束光、一个动作、一个空间关系，足以让一张照片重新被记住。</strong></div>
 
 ---
 
@@ -250,5 +252,4 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 <td align="center"><a href="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png"><img src="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png" alt="XXD Alipay reward" width="180"></a><br><strong>Alipay</strong></td>
 </tr></table>
 
-</div>
 </div>

@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
+</div>
+
 主体の物語 · 癒やしのパステル · 淡い油彩筆触 · 空気感のある青 · 編集的余白
 
 写真で最も記憶に残る主体、動作、空間関係を保ち、柔らかく明快なパステルの面、淡い油彩の筆触、控えめな編集文字で再構成します。
@@ -234,7 +236,7 @@ Knowledge Planet と会員プロンプトライブラリは一つの年会です
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
-<div align="center"><strong>記憶は六つのアイコンではなく、強弱のある収集です。</strong></div>
+<div align="center"><strong>一束の光、一つの動き、一つの空間関係だけで、写真はもう一度記憶になる。</strong></div>
 
 ---
 
@@ -247,5 +249,4 @@ Knowledge Planet と会員プロンプトライブラリは一つの年会です
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

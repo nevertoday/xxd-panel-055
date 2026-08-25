@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
+</div>
+
 SUBJECT NARRATIVE · HEALING PASTELS · LIGHT OIL TEXTURE · AIRY BLUE · EDITORIAL SPACE
 
 Keep the source's most memorable subject, gesture, and spatial relation, then rebuild them with soft but legible pastel masses, light oil-paint texture, and restrained editorial type.
@@ -234,7 +236,7 @@ One annual payment opens both Knowledge Planet and the member prompt library. Jo
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
-<div align="center"><strong>A memory is not six icons; it is a collection with hierarchy.</strong></div>
+<div align="center"><strong>One beam of light, one gesture, and one spatial relation can make a photograph memorable again.</strong></div>
 
 ---
 
@@ -247,5 +249,4 @@ Chinese-language support may use Xiaoxiaodong's own WeChat or Alipay reward code
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

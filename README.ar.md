@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
+</div>
+
 سرد الموضوع · ألوان باستيل مريحة · ملمس زيتي خفيف · أزرق هوائي · فراغ تحريري
 
 يحافظ على أكثر ما يعلق بالذاكرة من موضوع الصورة وحركتها وعلاقتها المكانية، ثم يعيد بناء ذلك بكتل باستيل ناعمة وواضحة وملمس زيتي خفيف وكتابة تحريرية مقتصدة.
@@ -234,7 +236,7 @@ Knowledge Planet ومكتبة توجيهات الأعضاء عضوية سنوي�
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
-<div align="center" dir="rtl"><strong>الذاكرة ليست ست أيقونات، بل مجموعة ذات تراتبية.</strong></div>
+<div align="center" dir="rtl"><strong>يكفي شعاع ضوء وحركة واحدة وعلاقة مكانية واحدة كي تصبح الصورة ذكرى من جديد.</strong></div>
 
 ---
 
@@ -247,5 +249,4 @@ Knowledge Planet ومكتبة توجيهات الأعضاء عضوية سنوي�
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
+</div>
+
 주체 서사 · 치유 파스텔 · 옅은 유화 붓결 · 공기감 있는 파랑 · 편집 여백
 
 사진에서 가장 기억할 만한 주체와 동작, 공간 관계를 남기고 부드럽고 선명한 파스텔 색면, 옅은 유화 붓결, 절제된 편집 글자로 다시 구성합니다.
@@ -234,7 +236,7 @@ Knowledge Planet과 회원 프롬프트 라이브러리는 하나의 연간 멤�
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
-<div align="center"><strong>기억은 여섯 아이콘이 아니라 위계가 있는 수집입니다.</strong></div>
+<div align="center"><strong>한 줄기 빛, 하나의 동작, 하나의 공간 관계만으로 사진은 다시 기억이 됩니다.</strong></div>
 
 ---
 
@@ -247,5 +249,4 @@ Knowledge Planet과 회원 프롬프트 라이브러리는 하나의 연간 멤�
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>
