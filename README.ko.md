@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 055
+# 🦁 XXD Panel 055｜회화적 기억의 장
 
 ### 빛과 동작, 공간의 관계를 부드러운 시각 서사로
 

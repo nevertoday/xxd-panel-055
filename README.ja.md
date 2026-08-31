@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 055
+# 🦁 XXD Panel 055｜絵画の記憶の場
 
 ### 光、動作、空間の関係を、やさしい視覚物語へ
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 055
+# 🦁 XXD Panel 055｜Painted Memory Field
 
 ### Turn light, gesture, and spatial relation into a gentle visual narrative
 
