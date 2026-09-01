@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 055 project banner" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 055｜회화적 기억의 장
