@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 055｜Painted Memory Field: repaints a photo as a gentle, bright, soothing pastel painting — only the clearest subject relationship, a few key blocks of colour and quiet whitespace, in soft gouache, acrylic, oil pastel or light palette-knife strokes with slight paint build-up and clean but loose edges, composed with a clear focal point, often off-centre or low in the frame. Muted airy pale blues, mist blue and sky blue balanced by ivory, cream and soft grey-green, with small touches of blush pink, soft peach or dusty rose. A few small free words set like editorial notes; no stickers, no fixed title or language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-055 or asks for a soft pastel painting, gentle gouache illustration or healing painted memory from a photo.",
+  "short_description": "绘画记忆场：把照片里的光、动作和空间关系，画成一幅柔和明亮的粉彩厚涂画",
+  "zh-CN": {
+    "name": "绘画记忆场",
+    "tagline": "把照片里的一束光、一个动作和一种空间关系，画成一幅温柔的绘画。",
+    "look": "照片被删繁就简，只留下清楚的主体关系、几组关键色块和安静的留白，像记忆里重新整理过的画面。画法是温柔明亮的粉彩绘画：厚涂水粉、丙烯、粉蜡或带一点油画刀痕，笔触清楚但不粗重，边缘干净中带点松动，有轻微的颜料堆积。主体常常偏心、放大或落在中下部，成为明确的焦点。颜色以浅粉蓝、雾蓝、天空蓝为主，配象牙白、奶油白和柔和灰绿，点几处腮红粉、柔桃色或灰玫瑰。文字很少，是几个小而轻的词句，像独立出版物里的编辑注记。",
+    "traits": ["主体叙事", "治愈粉彩", "浅油画笔触", "空气蓝", "编辑留白"],
+    "good": [
+      "有光线和动作的生活瞬间：窗边晒太阳的人、海边散步、阳台上的猫",
+      "空间关系安静清楚的场景：一把椅子和一扇窗、桥上的行人、树下的长椅",
+      "想做成治愈系海报、文章题图或艺术刊物插图的照片"
+    ],
+    "poor": [
+      "需要写实、保留细节的图：产品图、证件照、复杂建筑",
+      "要保留浓烈对比或高饱和撞色的照片：霓虹夜景、节庆彩灯",
+      "想要贴纸拼贴、光滑矢量、3D 或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Painted Memory Field",
+    "tagline": "Paints a beam of light, a gesture and a spatial relationship from your photo as one gentle picture.",
+    "look": "The photo is pared down to the clearest relationship between things, a few key blocks of colour and quiet whitespace, like a scene rearranged by memory. It is painted in a gentle, bright pastel manner: thick gouache, acrylic, oil pastel or a little palette-knife work, with clear but light strokes, clean edges that loosen in places and slight paint build-up. The subject often sits off-centre, enlarged or low in the frame as a clear focal point. Colours are mainly pale blue, mist blue and sky blue with ivory, cream and soft grey-green, plus a few touches of blush pink, soft peach or dusty rose. Text is minimal: a few small, light words placed like editorial notes in an independent publication.",
+    "traits": ["Subject-led story", "Soothing pastels", "Light oil-paint strokes", "Airy blue", "Editorial whitespace"],
+    "good": [
+      "Everyday moments with light and action: someone in the sun by a window, a walk by the sea, a cat on a balcony",
+      "Scenes with a calm, clear spatial relationship: a chair and a window, a figure on a bridge, a bench under a tree",
+      "Photos for a soothing poster, an article header or an art-magazine illustration"
+    ],
+    "poor": [
+      "Images that need realism and detail: product shots, ID photos, complex architecture",
+      "Photos whose strong contrast or saturated clashing colour must stay: neon nights, festival lights",
+      "Requests for sticker collage, smooth vector, 3D or cartoon looks"
+    ]
+  },
+  "ja": {
+    "name": "絵画の記憶の場",
+    "tagline": "写真の中の一筋の光、一つの動き、一つの空間の関係を、やさしい絵に描きます。",
+    "look": "写真から余分なものを省き、はっきりした主役の関係、いくつかの大事な色面、静かな余白だけを残して、記憶の中で組み直したような画面にします。描き方はやさしく明るいパステル調の絵画で、厚塗りのガッシュ、アクリル、オイルパステル、少しのペインティングナイフの跡。筆致ははっきりしていても重すぎず、縁はすっきりしながら少しゆるみ、絵の具がわずかに盛り上がります。主役は中心を外したり、大きくしたり、画面の下寄りに置いたりして、明確な焦点になります。色は淡いピンクがかった青、霧のような青、空色を中心に、アイボリー、生成り、柔らかな灰緑、そこにブラッシュピンク、柔らかなピーチ、くすんだローズを数か所。文字はごく少なく、小さく軽い言葉が独立系出版物の編集注記のように入ります。",
+    "traits": ["主役の物語", "癒しのパステル", "軽い油彩の筆致", "空色", "編集的な余白"],
+    "good": [
+      "光と動きのある日常の瞬間：窓辺で日を浴びる人、海辺の散歩、ベランダの猫",
+      "空間の関係が静かで明快な場面：椅子と窓、橋の上の人、木の下のベンチ",
+      "癒し系のポスター、記事のアイキャッチ、アート誌の挿絵にしたい写真"
+    ],
+    "poor": [
+      "写実や細部が必要な画像：商品写真、証明写真、複雑な建築",
+      "強いコントラストや高彩度の色のぶつかりを残したい写真：ネオンの夜、祭りの灯り",
+      "シールのコラージュ、なめらかなベクター、3D、キャラクター風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "회화적 기억의 장",
+    "tagline": "사진 속 한 줄기 빛, 하나의 동작, 하나의 공간 관계를 부드러운 그림 한 장으로 그립니다.",
+    "look": "사진에서 군더더기를 걷어 내고 분명한 주인공의 관계, 몇 개의 핵심 색면, 조용한 여백만 남겨 기억 속에서 다시 정리한 듯한 화면을 만듭니다. 그림은 부드럽고 밝은 파스텔 회화로, 두껍게 칠한 과슈, 아크릴, 오일 파스텔이나 약간의 나이프 자국이 있고, 붓결은 분명하지만 무겁지 않으며 가장자리는 깔끔하면서도 조금 느슨하고 물감이 살짝 쌓여 있습니다. 주인공은 한쪽으로 치우치거나 크게 잡히거나 화면 아래쪽에 놓여 분명한 초점이 됩니다. 색은 연분홍빛 파랑, 안개빛 파랑, 하늘색을 중심으로 아이보리, 크림색, 부드러운 회녹색에 블러시 핑크, 소프트 피치, 더스티 로즈를 몇 군데 둡니다. 글자는 아주 적고, 작고 가벼운 단어가 독립 출판물의 편집 메모처럼 들어갑니다.",
+    "traits": ["주인공 서사", "힐링 파스텔", "가벼운 유화 붓결", "에어리 블루", "편집 여백"],
+    "good": [
+      "빛과 동작이 있는 일상의 순간: 창가에서 햇볕을 쬐는 사람, 바닷가 산책, 발코니의 고양이",
+      "공간 관계가 조용하고 분명한 장면: 의자와 창문, 다리 위의 사람, 나무 아래 벤치",
+      "힐링 포스터, 글 대표 이미지, 예술 잡지 삽화로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사실감과 세부가 필요한 이미지: 제품 사진, 증명사진, 복잡한 건축",
+      "강한 대비나 고채도 색 충돌을 살려야 하는 사진: 네온 야경, 축제 조명",
+      "스티커 콜라주, 매끈한 벡터, 3D, 캐릭터 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "حقل الذاكرة المرسوم",
+    "tagline": "يرسم شعاع ضوء وحركة وعلاقة مكانية من صورتك في لوحة واحدة رقيقة.",
+    "look": "تُجرَّد الصورة إلى أوضح علاقة بين عناصرها وبضع كتل لونية أساسية وفراغ هادئ، كأنها مشهد أعادت الذاكرة ترتيبه. الرسم بأسلوب باستيل رقيق مشرق: غواش كثيف أو أكريليك أو باستيل زيتي أو قليل من سكين الرسم، بضربات واضحة لكنها خفيفة، وحواف نظيفة ترتخي في مواضع، وتراكم خفيف للطلاء. كثيراً ما يكون الموضوع بعيداً عن المركز أو مكبّراً أو في أسفل الإطار نقطةَ تركيز واضحة. الألوان أساساً أزرق وردي فاتح وأزرق ضبابي وأزرق سماوي مع العاجي والكريمي والأخضر الرمادي الناعم، ولمسات قليلة من الوردي الخجول والخوخي الناعم والوردي الباهت. النص قليل جداً: كلمات صغيرة خفيفة توضع كملاحظات تحريرية في منشور مستقل.",
+    "traits": ["سرد يقوده الموضوع", "باستيل مريح", "ضربات زيتية خفيفة", "أزرق هوائي", "فراغ تحريري"],
+    "good": [
+      "لحظات يومية فيها ضوء وحركة: شخص في الشمس قرب نافذة، نزهة على البحر، قطة على شرفة",
+      "مشاهد ذات علاقة مكانية هادئة وواضحة: كرسي ونافذة، شخص على جسر، مقعد تحت شجرة",
+      "صور لملصق مريح أو صورة رأسية لمقال أو رسم لمجلة فنية"
+    ],
+    "poor": [
+      "صور تحتاج إلى الواقعية والتفاصيل: صور المنتجات، صور الهوية، العمارة المعقدة",
+      "صور يجب أن يبقى فيها التباين القوي أو تصادم الألوان المشبعة: ليالي النيون، أضواء المهرجانات",
+      "طلب كولاج ملصقات أو رسوم متجهية ملساء أو مجسمات ثلاثية الأبعاد أو رسوم كرتونية"
+    ]
+  }
+}

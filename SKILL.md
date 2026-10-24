@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-055
-description: "Create XXD Panel 055 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-055 or requests the exact Panel 055 style."
+description: "XXD Panel 055｜Painted Memory Field: repaints a photo as a gentle, bright, soothing pastel painting — only the clearest subject relationship, a few key blocks of colour and quiet whitespace, in soft gouache, acrylic, oil pastel or light palette-knife strokes with slight paint build-up and clean but loose edges, composed with a clear focal point, often off-centre or low in the frame. Muted airy pale blues, mist blue and sky blue balanced by ivory, cream and soft grey-green, with small touches of blush pink, soft peach or dusty rose. A few small free words set like editorial notes; no stickers, no fixed title or language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-055 or asks for a soft pastel painting, gentle gouache illustration or healing painted memory from a photo."
 ---
 
 # XXD Panel 055
